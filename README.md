@@ -1,4 +1,5 @@
 \# QA Automation Framework with Playwright \& PyTest
+[![Playwright Tests](https://github.com/tadisreelakshmi-debug/qa-automation-project/actions/workflows/playwright.yml/badge.svg)](https://github.com/tadisreelakshmi-debug/qa-automation-project/actions/workflows/playwright.yml)
 
 
 
